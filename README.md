@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alok-g
+- 👋 Hi, I’m @Alok-kumar
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...C and java
 - 💞️ I’m looking to collaborate on ...
